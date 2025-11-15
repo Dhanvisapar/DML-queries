@@ -41,7 +41,7 @@ Deleting multiple rows using a condition
 
 Deleting rows with NULL values
 
-Concepts Learned
+@@Concepts Learned
 
 Difference between NULL, empty string, and 0
 
